@@ -3,6 +3,8 @@
 
 [ZeroSpec](https://github.com/corey924/ZeroSpec)
 
+[未來的程式開發？用 OpenSpec + AI，在 VS Code 幾乎不用寫程式](https://www.youtube.com/watch?v=sxfOsuNfO50)
+
 ## 什麼是 ZeroSpec？
 👉 ZeroSpec 是一種「讓 AI 更容易理解專案的文件化方法或框架」，ZeroSpec 是一套用 Markdown 建立的輕量框架，用來整理專案的結構、規則與「唯一可信來源（source of truth）」，讓 AI 在寫程式前就能理解整個專案。
 
