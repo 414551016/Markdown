@@ -11,6 +11,13 @@ ZeroSpec 的結構主要包含以下四個關鍵環節：
 - ADR (Architecture Decision Records)：架構決策紀錄，專門記錄在特定時間點做出某項決策的原因（例如：為了時程考慮，先不採用微服務架構），這對於長期維護至關重要。
 - SPEC (Specification)：針對個別功能的詳細規格（如登入、登出），通常存放在專門的目錄下，供開發者與 AI 針對具體任務進行對接。
 
+ZeroSpec 主要整理這些內容：讓 AI agent（如 Copilot、Claude）：不會「迷路」，不會亂改系統
+- 專案目錄結構（architecture）
+- 模組分工（module boundaries）
+- 開發規則（coding rules）
+- 文件索引（docs map）
+- AI 使用說明（prompt / context）
+
 # 如何解決 AI 開發的溝通問題？
 ZeroSpec 透過以下方式優化「人、AI、程式碼」三者間的資訊傳遞：
 - 終結 AI 「通靈」與減少幻覺： AI 的「幻覺」往往源於缺乏具體脈絡而進行的盲目推斷與猜測。ZeroSpec 提供清晰的架構說明與技術路徑，讓 AI 不必去「猜」Service 的用途，從而減少 AI 給出不合適建議或隨意覆蓋原有邏輯的情況
