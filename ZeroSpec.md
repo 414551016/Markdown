@@ -1,6 +1,8 @@
 # ZeroSpec（零依賴規格書）
 教學資源：[終結 AI 通靈開發！用 ZeroSpec 打造人類與 AI Coding Agent 都能秒懂的「零依賴規格書」(1:19:12)](https://www.youtube.com/watch?v=1Dp1tzE0dCI)
 ## 什麼是 ZeroSpec？
+👉 ZeroSpec 是一種「讓 AI 更容易理解專案的文件化方法或框架」，ZeroSpec 是一套用 Markdown 建立的輕量框架，用來整理專案的結構、規則與「唯一可信來源（source of truth）」，讓 AI 在寫程式前就能理解整個專案。
+
 ZeroSpec 是一套基於 Markdown (.md) 格式、存放在專案代碼庫（Git Repository）中的規格文件系統。其核心理念是**「零依賴」**，意指不強制要求團隊立即導入複雜的外部大型框架，而是透過標準化的 MD 文件，讓任何 AI 工具都能在最短時間內讀懂專案脈絡。
 
 ZeroSpec 的結構主要包含以下四個關鍵環節：
