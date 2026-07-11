@@ -24,6 +24,8 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 ---
 # Obsidian 的核心概念
 - [Local First（資料屬於自己）](#Local-First（資料屬於自己）)
+- [Markdown 編輯](#Markdown-編輯)
+- [Wiki Link（知識連結）](#Wiki-Link（知識連結）)
 ### Local First（資料屬於自己）
 > Obsidian 所有資料都是：
 > - 儲存在自己的電腦
