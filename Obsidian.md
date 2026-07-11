@@ -26,6 +26,15 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 - [Local First（資料屬於自己）](#local-first資料屬於自己)
 - [Markdown 編輯](#Markdown-編輯)
 - [Wiki Link（知識連結）](#wiki-link知識連結)
+- [Backlinks（反向連結）](#Backlinks反向連結)
+- [Graph View（知識圖譜）](#Graph-View知識圖譜)
+- [Tag（標籤）](#Tag標籤)
+- [Canvas（白板）](#Canvas白板)
+- [Dataview Plugin](#Dataview-Plugin)
+- [Tasks Plugin](#Tasks-Plugin)
+- [PDF Annotation](#PDF-Annotation)
+- [Excalidraw Plugin](#Excalidraw-Plugin)
+- [Git 整合](#Git-整合)
 ### Local First（資料屬於自己）
 > Obsidian 所有資料都是：
 > - 儲存在自己的電腦
@@ -88,6 +97,29 @@ Obsidian 可以直接建立新筆記。
 
 ### Backlinks（反向連結）
 
+
+### Graph View（知識圖譜）
+
+
+### Tag（標籤）
+
+
+### Canvas（白板）
+
+
+### Dataview Plugin
+
+
+### Tasks Plugin
+
+
+### PDF Annotation
+
+
+### Excalidraw Plugin
+
+
+### Git 整合
 
 
 
