@@ -37,7 +37,7 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 - [Excalidraw Plugin](#Excalidraw-Plugin)
 - [Git 整合](#Git-整合)
 - [第三方外掛生態](#第三方外掛生態)
-- [Calendar（日曆功能）](#Calendar日曆功能)
+    - [Calendar（日曆功能）](#Calendar日曆功能)
 ### Local First（資料屬於自己）
 > Obsidian 所有資料都是：
 > - 儲存在自己的電腦
