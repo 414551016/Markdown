@@ -1,10 +1,15 @@
 # Obsidian [ɒbˈsɪd.i.ən]
 Obsidian 是一套以 Markdown 為基礎的知識管理（Knowledge Management, KM）與筆記軟體，核心理念是建立一個屬於自己的「第二大腦（Second Brain）」。
 它最大的特色不是一般的記事本，而是讓所有筆記之間可以彼此建立連結（Link），形成知識網路（Knowledge Graph），讓知識可以像人類大腦一樣互相聯想。
+Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Markdown 純文字格式儲存於電腦中。其核心特色在於強大的「雙向連結」功能，能自動串聯相關筆記，幫助你建立個人知識網絡。
 
 # 教學資源
 ### YouTube：
 - [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！(18:05)](https://www.youtube.com/watch?v=ZC8AI_jFWnU)
+
+### 資源：
+- [Obsidian 官網](https://obsidian.md/)
+
 
 ---
 # Obsidian 的核心概念
