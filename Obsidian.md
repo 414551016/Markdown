@@ -24,11 +24,11 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 ---
 # Obsidian 的核心概念
 ### Local First（資料屬於自己）
-Obsidian 所有資料都是：
-- 儲存在自己的電腦
-- 每篇筆記都是 .md（Markdown）文字檔
-- 不依賴雲端
-- 不怕平台倒閉
+> Obsidian 所有資料都是：
+> - 儲存在自己的電腦
+> - 每篇筆記都是 .md（Markdown）文字檔
+> - 不依賴雲端
+> - 不怕平台倒閉
 
 例如：即使沒有 Obsidian，也可以直接閱讀 Markdown。
 ```
@@ -37,3 +37,23 @@ Research/
     SOC.md
     Honeypot.md
 ```
+
+### Markdown 編輯
+> Obsidian 採用 Markdown。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
