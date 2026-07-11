@@ -144,7 +144,21 @@ AI Agent is ...
 ```
 
 ### Wiki Link（知識連結）
-這是 Obsidian 最重要的功能。
+Wiki Link 是 Obsidian 最核心、最重要的功能。
+> 傳統筆記通常是：每篇筆記彼此獨立。
+> ```
+> 資料夾
+>  ├─ Python.docx
+>  ├─ DQN.docx
+>  └─ PPO.docx
+> ```
+
+> 而 Obsidian 則允許你把筆記互相連結：當你輸入 [[筆記名稱]] 時（左右個二個[ 中括符號），Obsidian 會自動建立連結。
+> ```
+> DQN 是一種 [[強化學習]] 演算法。
+> DQN 使用 [[神經網路]] 近似 Q-value。
+> 可參考 [[Double DQN]] 改善過估計問題。
+> ```
 
 例如：
 ```
