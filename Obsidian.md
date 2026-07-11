@@ -6,9 +6,12 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 # 教學資源
 ### YouTube：
 - [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！(18:05)](https://www.youtube.com/watch?v=ZC8AI_jFWnU)
+- 
+- {[新北市政府青年局](https://www.youtube.com/@youth_ntpc)}
+    - [第四集｜高效筆記的起點：Obsidian 模板製作與應用【AI 工具課】(09:51)](https://www.youtube.com/watch?v=aAVitJWUqMg)
 
 ### 資源：
-- [Obsidian 官網](https://obsidian.md/)
+- [Obsidian 官網](https://obsidian.md/) | Obsidian 官網 下載適合桌面版（Windows/Mac）或行動裝置的應用程式，個人使用完全免費
 
 
 ---
