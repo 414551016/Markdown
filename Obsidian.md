@@ -52,6 +52,20 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 - Archives（封存區）：
 - Daily_Notes（日誌）：
   很多 Obsidian 使用者最常用的功能。
+  > 格式：
+  > ```
+  > # 2026-07-12
+  >
+  > ## 今日目標
+  > - [ ] 訓練 DQN
+  > - [ ] 完成 Lab2
+  >
+  > ## 學習內容
+  > - PPO 的 GAE 理論
+  >
+  > ## 想法
+  > 發現 epsilon 太低會影響探索。
+  > ```
 - MOCs（Maps of Content）：
   MOC 可以理解為「知識地圖」。
 
