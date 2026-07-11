@@ -39,8 +39,25 @@ Research/
 ```
 
 ### Markdown 編輯
-> Obsidian 採用 Markdown。
+Obsidian 採用 Markdown。
+> 渲染後就是漂亮的文章。
+> - GitHub
+> - VS Code
+> - Typora
+> - HackMD
+例如：HackMD
+```
+# AI Agent
 
+## Definition
+
+AI Agent is ...
+
+- item1
+- item2
+
+**Important**
+```
 
 
 
