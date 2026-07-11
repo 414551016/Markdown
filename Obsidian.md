@@ -23,6 +23,7 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 
 ---
 # Obsidian 的核心概念
+- [Local First（資料屬於自己）](#Local-First（資料屬於自己）)
 ### Local First（資料屬於自己）
 > Obsidian 所有資料都是：
 > - 儲存在自己的電腦
@@ -46,7 +47,7 @@ Obsidian 採用 Markdown。
 > - Typora
 > - HackMD
 
-例如：HackMD
+例如：
 ```
 # AI Agent
 
@@ -60,12 +61,30 @@ AI Agent is ...
 **Important**
 ```
 
+### Wiki Link（知識連結）
+這是 Obsidian 最重要的功能。
 
+例如：
+```
+與 [[AI Agent]]
 
+以及
 
+[[Honeypot]]
 
+有高度關聯。
+```
+點擊：
+```
+[[AI Agent]]
+```
+如果不存在，
 
+Obsidian 可以直接建立新筆記。
 
+所以知識會自然長大。
+
+### Backlinks（反向連結）
 
 
 
