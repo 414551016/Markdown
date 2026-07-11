@@ -14,7 +14,9 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 - [Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧](https://www.youtube.com/watch?v=IlNOhNeWGgY)
 
 ### 資源：
-- [Obsidian 官網](https://obsidian.md/) | Obsidian 官網 下載適合桌面版（Windows/Mac）或行動裝置的應用程式，個人使用完全免費
+- [Obsidian 官網](https://obsidian.md/)
+  > [!NOTE] Title
+  > Obsidian 官網 下載適合桌面版（Windows/Mac）或行動裝置的應用程式，個人使用完全免費
 
 
 ---
