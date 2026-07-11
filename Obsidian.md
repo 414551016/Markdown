@@ -43,6 +43,19 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 > - 不依賴雲端
 > - 不怕平台倒閉
 
+如果你是要用 Obsidian 來管理 強化學習、嵌入式系統、學習筆記與專案紀錄，我建議不要一開始就建立太複雜的目錄，而是採用知名的 PARA 架構（Projects、Areas、Resources、Archives），再加入研究筆記專用區。這種做法很適合工程師與研究生。
+- Projects（專案）：
+  有明確目標與截止日期的事情。
+  每個專案可以包含：[**實驗紀錄**]、[**參數設定**]、[問題排查]、[成果分析]
+- Areas（長期領域）：
+- Resources（資源庫）：
+- Archives（封存區）：
+- Daily_Notes（日誌）：
+  很多 Obsidian 使用者最常用的功能。
+- MOCs（Maps of Content）：
+  MOC 可以理解為「知識地圖」。
+
+
 例如：即使沒有 Obsidian，也可以直接閱讀 Markdown。
 ```
 Research/
@@ -124,6 +137,7 @@ Obsidian 可以直接建立新筆記。
 
 
 ### 豐富外掛生態
+如何使用外掛提升效率？
 > Obsidian 支援數千個社群外掛，可以擴充：
 > - 任務管理
 > - 日記系統
