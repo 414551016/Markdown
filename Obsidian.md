@@ -49,7 +49,27 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
   每個專案可以包含：[**實驗紀錄**]、[**參數設定**]、[問題排查]、[成果分析]
 - Areas（長期領域）：
 - Resources（資源庫）：
+  閱讀資料、論文與參考文件。
+  > 論文筆記模板：
+  > ```
+  > # Paper : PPO
+  >
+  > 作者：
+  > 年份：
+  >
+  > ## 問題
+  > ## 方法
+  > ## 公式
+  > ## 優點
+  > ## 缺點
+  > ## 我的心得
+  > ## 相關：
+  > [[Policy Gradient]]
+  > [[Actor Critic]]
+  > ```
 - Archives（封存區）：
+  完成或不再進行的內容。
+  平常不需要查看。例如：原始暫置檔(Ori_*.md, *_Old.md)、
 - Daily_Notes（日誌）：
   很多 Obsidian 使用者最常用的功能。
   > 格式：
@@ -68,6 +88,28 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
   > ```
 - MOCs（Maps of Content）：
   MOC 可以理解為「知識地圖」。
+  這類筆記像目錄頁，可以快速導航。
+  > 建立「知識地圖」格式
+  > ```
+  > # 強化學習 MOC
+  >
+  > ## 基礎理論
+  > - [[Markov Decision Process]]
+  > - [[Bellman Equation]]
+  >
+  > ## Value Based
+  > - [[Q Learning]]
+  > - [[DQN]]
+  > - [[Double DQN]]
+  >
+  > ## Policy Based
+  > - [[Policy Gradient]]
+  > - [[PPO]]
+  >
+  > ## Environment
+  > - [[Gymnasium]]
+  > - [[MsPacman-v5]]
+  > ```
 
 
 例如：即使沒有 Obsidian，也可以直接閱讀 Markdown。
