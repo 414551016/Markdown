@@ -4,7 +4,7 @@ Obsidian 是一套以 Markdown 為基礎的知識管理（Knowledge Management, 
 Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Markdown 純文字格式儲存於電腦中。其核心特色在於強大的「雙向連結」功能，能自動串聯相關筆記，幫助你建立個人知識網絡。
 
 - [教學資源](#教學資源)
-- [Obsidian 的核心概念](#Obsidian 的核心概念)
+- [Obsidian 的核心概念](#Obsidian-的核心概念)
 
 # 教學資源
 ### YouTube：
