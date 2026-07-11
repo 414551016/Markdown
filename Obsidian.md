@@ -35,6 +35,7 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
 - [PDF Annotation](#PDF-Annotation)
 - [Excalidraw Plugin](#Excalidraw-Plugin)
 - [Git 整合](#Git-整合)
+- [豐富外掛生態](#豐富外掛生態)
 ### Local First（資料屬於自己）
 > Obsidian 所有資料都是：
 > - 儲存在自己的電腦
@@ -121,6 +122,16 @@ Obsidian 可以直接建立新筆記。
 
 ### Git 整合
 
+
+### 豐富外掛生態
+> Obsidian 支援數千個社群外掛，可以擴充：
+> - 任務管理
+> - 日記系統
+> - AI 助手
+> - 甘特圖
+> - 看板（Kanban）
+> - 學術文獻管理
+> - 日曆功能
 
 
 
