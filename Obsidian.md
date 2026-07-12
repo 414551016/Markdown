@@ -221,7 +221,8 @@ Obsidian 可以直接建立新筆記。
 > - 日曆功能
 
 #### Calendar（日曆功能）
-
+在 Obsidian 中，要有完整的「日曆 + 日記 + 週記 + 月記」體驗，通常會搭配兩個外掛：1.Calendar（日曆顯示）。2.Periodic Notes（每日／每週／每月筆記）
+安裝步驟：Settings → Community plugins → Browse → Calendar
 
 
 
