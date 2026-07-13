@@ -3,8 +3,7 @@
 ## 教學資源：
 ### YouTub：
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
-- [一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！(19:49)](https://www.youtube.com/watch?v=W5ymBPi53Tw)
-  > 園遊會為例
+
 - 
 
 
@@ -14,6 +13,9 @@
 > - 擷取重點：分析 What、How、Why、找出研究缺口
 > - 建立 Markdown、建立 Word、建立 PowerPoint
 > - 更新你的文獻資料夾
+### 教學資源
+- [一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！(19:49)](https://www.youtube.com/watch?v=W5ymBPi53Tw)
+  > 園遊會為例
 
 
 ## GPT-5.6 模型家族
