@@ -13,6 +13,10 @@
 > - 擷取重點：分析 What、How、Why、找出研究缺口
 > - 建立 Markdown、建立 Word、建立 PowerPoint
 > - 更新你的文獻資料夾
+### 教學資源
+- [Codex保姆級完整教學：從入門到進階，自動生成內容、網頁、影片和App，快速學會指揮你的超級AI Agent(29:54)](https://www.youtube.com/watch?v=tfeCwDT-5m0)
+
+
 ### 教學範例
 #### Ex:[一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！(19:49)](https://www.youtube.com/watch?v=W5ymBPi53Tw)
   > 校園園遊會為例：
