@@ -3,9 +3,10 @@
 ## 教學資源：
 ### YouTub：
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
-
-- 
-
+- [wow](https://www.youtube.com/@wow.insight)
+  - [解析 UNC/CMU/Stanford 等联合力作：如何打造靠谱的科研 Agent(19:20)](https://www.youtube.com/watch?v=FPe5wRlIdMU)
+- [灵姐说AI  |  Ling Talk AI](https://www.youtube.com/@aihublab)
+  - [GPT Live 实测：全双工语音，真人感到底有多强？｜ PK 豆包/同传/面试/脑暴/辩论/喜剧｜ Open AI(35:29)](https://www.youtube.com/watch?v=-hnd202HYZs)
 
 ## Codex
 > Codex 可以：
