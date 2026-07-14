@@ -20,7 +20,28 @@
 ### Skill（技能）
 > 定義：
 > Skill（技能）不是新的 AI 模型，而是一個可以重複使用的「專業工作流程 + 知識 + 工具 + 腳本」套件，讓 Codex 在特定任務上表現得像專家。
+> 也就是說：Skill 不是增加 AI 智慧，而是增加工作經驗。
 
+### Skill 與 Add to Task 有什麼不同？
+| Add to Task | Skill        |
+| ----------- | ------------ |
+| 一次交辦工作      | 長期可重複使用的工作流程 |
+| 本次任務        | 永久技能         |
+| 做完即結束       | 可以一直重複使用     |
+| 不一定保存流程     | 保存專業流程與知識    |
+
+### 建議建立的「專屬 Skill Bank」
+我認為你非常適合建立自己的 Cyber Defense Skill Bank，內容可以包含：
+| Skill 名稱              | 用途                                                                   | 建議程度  |
+| --------------------- | -------------------------------------------------------------------- | ----- |
+| 📄 Paper Review       | 自動閱讀論文、整理 What／How／Why、找研究缺口                                         | ⭐⭐⭐⭐⭐ |
+| 🛡 Cyber Defense      | 分析 Zeek、Suricata、Windows Event、Firewall 日誌，產出 IOC、MITRE ATT&CK 對應與報告 | ⭐⭐⭐⭐⭐ |
+| 🤖 AI Agent SOC       | 建立 Planner、Memory、Tool、Executor 等 AI Agent 模組與專案骨架                   | ⭐⭐⭐⭐⭐ |
+| 🧪 Experiment         | 建立實驗流程、整理結果、產生圖表與 Markdown 報告                                        | ⭐⭐⭐⭐⭐ |
+| 📝 Thesis Writer      | 維護博士論文章節、引用、圖表、附錄與目錄                                                 | ⭐⭐⭐⭐☆ |
+| 📊 PPT Generator      | 將論文或研究成果整理成教授報告用簡報與講稿                                                | ⭐⭐⭐⭐☆ |
+| 📚 Obsidian Knowledge | 自動建立雙向連結、索引、標籤與知識庫結構                                                 | ⭐⭐⭐⭐☆ |
+| 🐙 GitHub Research    | 維護 README、技術文件、版本紀錄與程式碼品質                                            | ⭐⭐⭐⭐☆ |
 
 
 
