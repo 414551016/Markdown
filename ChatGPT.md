@@ -17,6 +17,13 @@
 ### 教學資源
 - [Codex保姆級完整教學：從入門到進階，自動生成內容、網頁、影片和App，快速學會指揮你的超級AI Agent(29:54)](https://www.youtube.com/watch?v=tfeCwDT-5m0)
 
+### Skill（技能）
+> 定義：
+> Skill（技能）不是新的 AI 模型，而是一個可以重複使用的「專業工作流程 + 知識 + 工具 + 腳本」套件，讓 Codex 在特定任務上表現得像專家。
+
+
+
+
 
 ### 教學範例
 #### Ex:[一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！(19:49)](https://www.youtube.com/watch?v=W5ymBPi53Tw)
