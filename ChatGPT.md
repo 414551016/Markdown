@@ -15,6 +15,39 @@
 > - 擷取重點：分析 What、How、Why、找出研究缺口
 > - 建立 Markdown、建立 Word、建立 PowerPoint
 > - 更新你的文獻資料夾
+
+### Codex 是什麼？
+> Codex 是由 OpenAI 推出的一款 AI 助理軟體與通用代理工具（General-purpose Agent）。它與一般 ChatGPT 的最大不同在於，Codex 不僅能回答問題，還能直接動手完成實際工作，例如撰寫文件、製作簡報、生成網站、開發 Apps，甚至直接操作你的電腦。
+
+以下是 Codex 的核心特性與功能說明：
+- 運作模式與環境：
+  - 本地端操作： 不同於 ChatGPT 將內容存在雲端，Codex 是一款安裝在 Windows 或 Mac 電腦上的應用程式。它直接在你的本地電腦上操作，生成的文件也都儲存在你的硬碟中。
+  - 多任務並行： Codex 支援同時開啟多個對話（Sessions）與專案，能平行處理不同的任務，且各任務間的記錄互相隔離，避免上下文污染。
+  - 專案管理（AGENTS.md）： 使用者可以在專案資料夾中建立 AGENTS.md 檔案作為「操作守則」，讓 AI 在執行任務前先讀取必要的背景資訊與規範。
+- 核心功能與技術：
+  - 電腦使用（Computer Use）：
+    這是 Codex 極其強大的功能，讓 AI 能像真人一樣操作瀏覽器或其他軟體（如 Teams、Excel），執行自動化測試、填寫表單或發送訊息。
+  - 技能（Skills）系統：
+    使用者可以將標準作業流程（SOP）封裝成「技能」。透過**漸進式披露（Progressive Disclosure）**機制，系統平時只載入技能名稱與描述，僅在觸發時才載入詳細指令，這能確保掛載大量技能時不會塞爆 AI 的思考空間（Context Window）
+  - 錄製與重播（Record & Replay）： 這是為了終結複雜提示詞而設計的功能。使用者可以直接操作給 AI 看，Codex 會自動將操作流程分析並儲存為可重複執行的技能檔案。
+  - 內建生圖與外掛： 整合了 OpenAI 最強的 Image 2 生圖模型，並支援透過**外掛程式（Plugins）**連接 Gmail、Google Drive、GitHub、Canva 和 Figma 等外部工具
+- 與其他工具的差異：
+  - 對比 ChatGPT： ChatGPT 偏向雲端對話與知識獲取，Codex 則專精於本地執行與跨軟體的工作流程自動化。
+  - 對比 Claude Code： 雖然兩者皆為 Agent 工具，但 Codex 提供了更友好的可視化 UI 介面，適合沒有編程基礎的辦公族群，且支援手機遠端控制電腦幹活。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 教學資源
 - [Codex保姆級完整教學：從入門到進階，自動生成內容、網頁、影片和App，快速學會指揮你的超級AI Agent(29:54)](https://www.youtube.com/watch?v=tfeCwDT-5m0)
 
