@@ -103,7 +103,17 @@ ___
 ```
 ![images/蔓花生-01.jpg](./images/蔓花生-01.jpg)
 
+1. 使用 width 屬性（最推薦）
 <img src="./images/蔓花生-01.jpg" width="300">
+<img src="./images/蔓花生-01.jpg" width="50%">
+
+2. 同時調整大小並「置中對齊」
+<div align="center">
+  <img src="./images/蔓花生-01.jpg" width="400">
+</div>
+
+3. 使用內聯 CSS 樣式（Style）
+<img src="./images/蔓花生-01.jpg" style="max-width: 100%; height: auto;">
 ```
 
 
