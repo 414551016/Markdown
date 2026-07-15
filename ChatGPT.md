@@ -36,6 +36,38 @@
   - 對比 ChatGPT： ChatGPT 偏向雲端對話與知識獲取，Codex 則專精於本地執行與跨軟體的工作流程自動化。
   - 對比 Claude Code： 雖然兩者皆為 Agent 工具，但 Codex 提供了更友好的可視化 UI 介面，適合沒有編程基礎的辦公族群，且支援手機遠端控制電腦幹活。
 
+### Codex和Claude區別？
+> Codex 與 Claude Code 分別是由 OpenAI 與 Anthropic 所開發的 AI Agent（智能體）工具。雖然兩者都正從「編程助手」轉向「通用智能體」，但在設計理念、目標族群與功能特色上有顯著的差異。
+
+- 目標族群與使用門檻：
+  - Codex： 設計上對零基礎的白領工作者更加友好，提供了直觀的 三欄式視覺化 UI 介面，讓一般用戶能輕鬆上手。
+  - Claude Code： 自由度更高，但介面與操作邏輯更偏向專業開發者。
+  - Codex 與 Claude Code 的主要差別：
+    | 比較項目  | OpenAI Codex                                 | Anthropic Claude Code                       |
+    | ----- | -------------------------------------------- | ------------------------------------------- |
+    | 開發公司  | OpenAI                                       | Anthropic                                   |
+    | 核心定位  | 專門完成軟體工程任務的 Coding Agent                     | 以 Claude 模型為核心的 Agentic Coding Tool         |
+    | 主要介面  | ChatGPT、Codex CLI、IDE 擴充套件、雲端環境              | 終端機、VS Code／IDE、Claude Code 環境              |
+    | 工作方式  | 接收任務後讀取、修改、執行與測試程式，亦可在雲端平行處理多個任務             | 直接操作本機程式碼庫、執行指令、修改多個檔案及呼叫開發工具               |
+    | 多代理能力 | 強調工作樹、雲端環境及多個代理平行處理不同任務                      | 支援子代理、Skills 與動態工作流程，可拆分大型任務                |
+    | 專案指令  | 可透過 `AGENTS.md`、Skills、設定檔定義開發規範             | 常透過 `CLAUDE.md`、Skills 與自動記憶保存專案規則          |
+    | 生態系整合 | ChatGPT、GitHub、Codex CLI、VS Code、Codex SDK 等 | Claude、Claude Code CLI、VS Code、GitHub、MCP 等 |
+    | 適合用途  | 大型重構、Pull Request、測試、程式碼審查、平行代理開發            | 理解大型程式碼庫、互動除錯、架構分析、終端機工作流程                  |
+
+- 模型支持與運作環境：
+  - 模型類型： Codex 桌面端僅支持 OpenAI 的 GPT 系列模型（如 GPT-5.5）；Claude Code 則默認使用 Claude 模型，但也允許用戶替換成其他模型。
+  - 運作模式： 兩者皆可在本地電腦直接操作文件。不過，Codex 將當前項目資料夾視為**「沙箱」（Sandbox）**作為權限運作的地基，這與 Claude Code 將沙箱視為「額外開啟的保護層」在底層邏輯上有所不同。
+- 核心功能特色：
+  - Codex 獨有/強項功能：
+    - 圖像生成： 內置了 OpenAI 最強的 Image 2 (DALL-E) 生圖模型，可直接在對話中生成產品圖或網頁素材。
+    - 錄製與重播 (Record & Replay)： 允許用戶透過「實際操作」示範給 AI 看，自動生成技能（Skill），徹底解決流程難以用文字描述的問題。
+    - 移動端控制： 支援透過手機遠端控制電腦上的 Codex 執行任務。
+    - 電腦使用 (Computer Use)： 具備自動操作瀏覽器與電腦軟體（如 Teams、Excel）的能力。
+  - 共同具備： 兩者皆支援 Skills（技能）、MCP（模型上下文協議）、斜槓命令與遠程操控等進階功能。
+- 價格與額度機制：
+- 適用場景建議：
+  - Codex： 擅長執行類型的工作，適合日常辦公、自動化流程整理、生成圖片與文件彙整。
+  - Claude Code： 由於 Claude 模型具備極強的寫作與規劃能力，更適合用於複雜任務的架構設計與內容創作。
 
 
 
