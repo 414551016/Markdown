@@ -1,6 +1,6 @@
 # ChatGPT
 - [Codex](#Codex)
-- [外掛程式（Plugin）](#外掛程式Plugin)
+- [常用外掛程式（Plugin）](#常用外掛程式Plugin)
 ## 教學資源：
 ### YouTub：
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
@@ -106,7 +106,7 @@
 - [Codex保姆級完整教學：從入門到進階，自動生成內容、網頁、影片和App，快速學會指揮你的超級AI Agent(29:54)](https://www.youtube.com/watch?v=tfeCwDT-5m0)
 
 
-## 外掛程式（Plugin）
+## 常用外掛程式（Plugin）
 > 外掛程式（Plugin）是「手與工具」；Skill 是「工作流程與標準作業程序」。
 
 ### Gmail
@@ -180,9 +180,12 @@
 
 ### Codex Security
 > OpenAI 官方將 Codex Security Plugin列為外掛使用範例，強調應針對有權限檢查的程式碼進行掃描。
+- 這是資訊安全研究特別值得注意的外掛，可用於：掃描已獲授權的程式碼。找出疑似弱點。驗證弱點是否具有實際可能性。協助修補程式碼。產生資安審查說明。
 
-
-
+### OpenAI Developer Docs MCP
+> OpenAI提供唯讀的官方文件 MCP Server，讓 Codex直接搜尋及閱讀 OpenAI 開發文件。
+> 您目前是初學者，可以先不安裝；日後開始寫 API 或 MCP 程式時再使用。
+- 這不是一般行政外掛，而是官方技術文件工具，適合：查詢 OpenAI API。查詢 Codex 設定方法。查詢 Apps SDK。查詢模型參數。避免 Codex使用過時的 API 寫法。
 
 
 
