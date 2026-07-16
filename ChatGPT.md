@@ -16,7 +16,7 @@
 > - 建立 Markdown、建立 Word、建立 PowerPoint
 > - 更新你的文獻資料夾
 
--[Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
+- [Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
 
 
 
