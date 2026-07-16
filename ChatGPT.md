@@ -9,6 +9,7 @@
   - [解析 UNC/CMU/Stanford 等联合力作：如何打造靠谱的科研 Agent(19:20)](https://www.youtube.com/watch?v=FPe5wRlIdMU)
 - [灵姐说AI  |  Ling Talk AI](https://www.youtube.com/@aihublab)
   - [GPT Live 实测：全双工语音，真人感到底有多强？｜ PK 豆包/同传/面试/脑暴/辩论/喜剧｜ Open AI(35:29)](https://www.youtube.com/watch?v=-hnd202HYZs)
+  - [Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化(13:06)](https://www.youtube.com/watch?v=zMJG9s7T7L8)
 - [Ava - 凜](https://www.youtube.com/@AvaLab/playlists)
   - [Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
   - [Codex 零基礎入門 | 不是工程師也能開發！用 AI 做一個可分享的心理測驗網站(26:28)](https://www.youtube.com/watch?v=KoGKJcq9IrI)
