@@ -1,6 +1,7 @@
 # ChatGPT
 - [Codex](#Codex)
 - [常用外掛程式（Plugin）](#常用外掛程式Plugin)
+- [常用 Skill（技能）](#常用-Skill技能)
 ## 教學資源：
 ### YouTub：
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
@@ -201,10 +202,23 @@
 
 
 
-## Skill（技能）
+## 常用 Skill（技能）
 > 定義：
 > Skill（技能）不是新的 AI 模型，而是一個可以重複使用的「專業工作流程 + 知識 + 工具 + 腳本」套件，讓 Codex 在特定任務上表現得像專家。
-> 也就是說：Skill 不是增加 AI 智慧，而是增加工作經驗。
+> 也就是說：Skill 並不像 Gmail 外掛一樣都是固定產品。它通常是您自己建立的「工作規則」。Skill 不是增加 AI 智慧，而是增加工作經驗。
+- Skill 是一個資料夾，至少包含：
+  ```
+  my-skill/
+  └── SKILL.md
+  ```
+- 也可以另外加入：
+  ```
+  scripts/       自動執行程式
+  references/    參考資料
+  assets/        表格或文件範本
+  ```
+
+
 
 ### 教學資源
 
