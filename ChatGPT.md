@@ -1,4 +1,5 @@
 # ChatGPT
+- [Codex](#Codex)
 - [外掛程式（Plugin）](#外掛程式Plugin)
 ## 教學資源：
 ### YouTub：
