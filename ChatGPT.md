@@ -10,6 +10,7 @@
 - [【AI影音】AI下指令好難？LLM腳本術：教你用ChatGPT、Gemini寫出專業導演分鏡！(ft. 大有牧森)(14:13)](https://www.youtube.com/watch?v=pCQquZJyZ0o)
 
 ## Codex
+- [Codex 是什麼？](#Codex-是什麼)
 > Codex 可以：
 > - 自動整理 PDF：幫我閱讀這 20 篇論文
 > - 擷取重點：分析 What、How、Why、找出研究缺口
