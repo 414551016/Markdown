@@ -160,6 +160,36 @@
 
 ### Slack
 > 官方以「摘要 Slack 頻道及撰寫回覆草稿」作為典型使用案例。
+> 若您主要使用 Microsoft Teams，則需查看外掛目錄是否有可用的 Teams 連線，或日後透過 MCP、Power Automate 處理。
+適合工作團隊使用：
+- 摘要指定頻道。
+- 找出提及您的訊息。
+- 找出尚未回覆的工作要求。
+- 整理專案決議。
+- 建立回覆草稿。
+- 將訊息轉成任務。
+
+### GitHub
+> ChatGPT 的 Plugin 可以連接 GitHub；Codex也能在 GitHub Pull Request 中執行程式碼審查，並依照 Repository 的 AGENTS.md 規範進行檢查。
+- 適合軟體、資訊安全與研究專案：讀取 Repository。檢查 Issues。分析 Pull Requests。審查程式碼。修正錯誤。撰寫測試。產生提交說明。自動執行 PR Code Review。
+- 常用指令：使用 GitHub 外掛分析這個 Repository。
+  請找出：1. 尚未處理的高優先級 Issue。2. 最近失敗的測試。3. 可能的資安問題。4. 本週應優先完成的三項工作。先不要修改程式碼。
+
+### Codex Security
+> OpenAI 官方將 Codex Security Plugin列為外掛使用範例，強調應針對有權限檢查的程式碼進行掃描。
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
