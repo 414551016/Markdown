@@ -1,5 +1,5 @@
 # ChatGPT
-
+- [外掛程式（Plugin）](#外掛程式Plugin)
 ## 教學資源：
 ### YouTub：
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
@@ -11,6 +11,7 @@
 
 ## Codex
 - [Codex 是什麼？](#Codex-是什麼)
+- [Codex和Claude區別？](#Codex和Claude區別？)
 > Codex 可以：
 > - 自動整理 PDF：幫我閱讀這 20 篇論文
 > - 擷取重點：分析 What、How、Why、找出研究缺口
