@@ -16,6 +16,10 @@
 > - 建立 Markdown、建立 Word、建立 PowerPoint
 > - 更新你的文獻資料夾
 
+-[Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
+
+
+
 ### Codex 是什麼？
 > Codex 是由 OpenAI 推出的一款 AI 助理軟體與通用代理工具（General-purpose Agent）。它與一般 ChatGPT 的最大不同在於，Codex 不僅能回答問題，還能直接動手完成實際工作，例如撰寫文件、製作簡報、生成網站、開發 Apps，甚至直接操作你的電腦。
 > 總結來說，Codex 的設計理念是讓人類負責「長度（思考與決策）」，而讓 AI 負責「執行」。它透過將使用者的思考方式轉移給 Agent，達成個人知識資產的自動化運作。
