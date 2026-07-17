@@ -14,6 +14,9 @@
   - [Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
   - [Codex 零基礎入門 | 不是工程師也能開發！用 AI 做一個可分享的心理測驗網站(26:28)](https://www.youtube.com/watch?v=KoGKJcq9IrI)
 - [【AI影音】AI下指令好難？LLM腳本術：教你用ChatGPT、Gemini寫出專業導演分鏡！(ft. 大有牧森)(14:13)](https://www.youtube.com/watch?v=pCQquZJyZ0o)
+- [Codex 零基础终极教程：功能、办公、编程、自动化一次讲透！(22:04)](https://www.youtube.com/watch?v=hGaKA3cfMjk)
+  > 旨在引導零基礎使用者掌握名為 Codex 的全能型 AI 智能體工具。內容核心在於對比它與 Claude code 的差異，強調其在 GPT 模型支持、免費額度及強大電腦操作能力上的優勢。透過專案管理的實作，展示了如何藉由 Skills（技能）與 Plugins（插件） 達成多工處理、自動化辦公流程，甚至完成網頁部署與影片製作。最終，該教學強調將 AI 從單純的聊天機器人轉化為能主動執行任務的自動化生產力工具，協助用戶從事低門檻的程式開發與日常工作運維。
+- 
 
 ## Codex
 - [Codex 是什麼？](#Codex-是什麼)
