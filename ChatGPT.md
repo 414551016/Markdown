@@ -23,6 +23,14 @@
 - 提示詞
   - 你不需要親自去干活，你唯一的任務就是閱讀外面那個干活的天才不斷傳回的失敗工作日誌。你要硬生生地憑空寫出一本能讓整個團隊脫胎換骨的終極生存手冊。
   - 
+- 名詞學習
+  - SkillOpt（Skill Optimization（技能優化））
+    > SkillOpt 是微軟研究院（Microsoft Research）於 2026 年開源的一個框架，用來像訓練神經網路一樣訓練 AI Agent 的技能（Skills），但不修改大型語言模型（LLM）的權重。
+    > 核心概念：傳統上若想提升 AI Agent 的能力，通常有兩種方式：1.修改 Prompt。2.微調模型（Fine-tuning）。
+    > SkillOpt 提出了第三種方法：把 Agent 的「技能文件（Skill Document）」當成可訓練參數來優化。
+  - 
+
+
 
 ## Codex
 - [Codex 是什麼？](#Codex-是什麼)
