@@ -11,6 +11,7 @@
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
 - [wow](https://www.youtube.com/@wow.insight)
   - [解析 UNC/CMU/Stanford 等联合力作：如何打造靠谱的科研 Agent(19:20)](https://www.youtube.com/watch?v=FPe5wRlIdMU)
+  - [微软技能优化器：当AI蒙上眼睛，它学会了自己写SOP，还觉醒了“元技能”！(28:11)](https://www.youtube.com/watch?v=K6D4gDlXXWY)
 - [灵姐说AI  |  Ling Talk AI](https://www.youtube.com/@aihublab)
   - [GPT Live 实测：全双工语音，真人感到底有多强？｜ PK 豆包/同传/面试/脑暴/辩论/喜剧｜ Open AI(35:29)](https://www.youtube.com/watch?v=-hnd202HYZs)
   - [Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化(13:06)](https://www.youtube.com/watch?v=zMJG9s7T7L8)
