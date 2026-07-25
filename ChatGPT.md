@@ -12,6 +12,8 @@
 - [wow](https://www.youtube.com/@wow.insight)
   - [解析 UNC/CMU/Stanford 等联合力作：如何打造靠谱的科研 Agent(19:20)](https://www.youtube.com/watch?v=FPe5wRlIdMU)
   - [微软技能优化器：当AI蒙上眼睛，它学会了自己写SOP，还觉醒了“元技能”！(28:11)](https://www.youtube.com/watch?v=K6D4gDlXXWY)
+    > 這份來源深入解析了微軟開發的 ScaleUP 研究，這是一種讓封閉原始碼 AI 透過自我進化來提升效能的創新技術。該機制採取「雙軌架構」，由一個「老闆」模型在不接觸實際環境的狀況下，專門分析「員工」模型留下的失敗日誌，並從中提煉出精簡的 SOP（標準作業程序） 來指導後續行動。為了防止模型產生偏離，研究團隊將深度學習的數學邏輯轉化為編輯預算與驗證門檻，確保每一條規則的修改都能帶來實質的效能成長。這套系統最驚人之處在於其元技能的覺醒，AI 不僅學會了解決具體問題，更掌握了「如何優化規則」的管理智慧，展現出跨模型與跨環境的通用遷移能力。
+    
 - [灵姐说AI  |  Ling Talk AI](https://www.youtube.com/@aihublab)
   - [GPT Live 实测：全双工语音，真人感到底有多强？｜ PK 豆包/同传/面试/脑暴/辩论/喜剧｜ Open AI(35:29)](https://www.youtube.com/watch?v=-hnd202HYZs)
   - [Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化(13:06)](https://www.youtube.com/watch?v=zMJG9s7T7L8)
