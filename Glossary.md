@@ -3,6 +3,53 @@ Glossary （術語表，名詞解釋）
 # GPT
 ### Bounded Text Updates（有界文字更新）
 > Bounded Text Updates（有界文字更新） 是近年 Agent 與 Prompt/Skill 優化領域的重要概念，尤其是 Microsoft Research 的 SkillOpt 核心機制之一。簡單來說：限制 AI 每次只能對技能文件（Skill Document）做有限幅度的文字修改，而不能任意大幅重寫整份文件。
+> Bounded Text Updates（有界文字更新）就是限制 AI 每次只能對 Prompt 或 Skill 文件做少量、可控的修改，類似深度學習中的 Learning Rate 控制，藉此避免技能漂移、提升穩定性，並讓 Agent 的技能能夠逐步而可靠地進化。
+- 為什麼需要這個機制？
+  ```
+  假設你有一份 Agent 技能：
+  # 故障排除技能
+  1. 先收集錯誤訊息
+  2. 查詢系統日誌
+  3. 驗證修正結果 ...
+
+  如果讓 AI 自由修改，可能會變成：
+  # 新技能
+  直接猜測問題原因
+  然後提供解法
+
+  雖然 AI 想改進，但：
+  - 原本有效規則被刪掉
+  - 新規則未經驗證
+  - 整體表現可能變差
+  這種現象稱為：Skill Drift、Prompt Drift。也就是技能逐漸偏離原本有效的內容。
+  ```
+- Bounded Text Updates 的做法
+  ```
+  SkillOpt 不允許：整份文件重寫
+  而是限制：新增少量規則（Add）
+  1. 收集錯誤訊息
+  2. 查詢系統日誌
+  + 3. 檢查最近變更
+  4. 驗證修正結果
+
+  修改單一規則（Replace）
+  - 查詢系統日誌
+  + 查詢最近24小時系統日誌
+
+  刪除少量規則（Delete）
+  - 永遠重新開機
+  ```
+- 可以把它想成文字版 Learning Rate
+  ```
+  在神經網路：Learning Rate = 每次權重更新幅度
+  如果學習率太大：最佳解 ↓ 更新過頭 ↓ 震盪
+  同樣地，在技能優化中：技能文件 ↓ 一次改太多 ↓ 品質下降
+  ```
+- Bounded Update
+  ```
+  AI只允許：- 搜尋至少兩個來源，僅修改一句話，風險低很多。
+  ```
+- 
 
 # AI （人工智慧領域）
 ### Atomic Editing（原子級編輯）
