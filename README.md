@@ -1,3 +1,6 @@
+
+- [Glossary.md（術語表，名詞解釋）](https://github.com/414551016/Markdown/blob/main/Glossary.md)
+
 # Markdown 基礎語法快速參考
 教學資源：[MarkDown語法大全](https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA)
 
