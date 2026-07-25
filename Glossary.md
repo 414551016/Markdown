@@ -74,9 +74,28 @@ Glossary （術語表，名詞解釋）
 ### Atomic Editing（原子級編輯）
 > 原子級編輯（Atomic Editing） 是一種文件或程式碼修改方法，指的是：每次只做一個最小、明確、可驗證的修改動作。「原子（Atomic）」借用自物理學與資料庫術語，表示一個不可再分割的最小操作單位。
 
-### 多模態之跨模態搜尋（Cross-Modal Search in Multimodal AI） | [多模态之跨模态搜索(05:04)](https://www.youtube.com/watch?v=YQtrSmxDIoM)
+### 多模態之跨模態搜尋（Cross-Modal Search in Multimodal AI）
+> 多模態之跨模態搜尋（Cross-Modal Search）是指利用一種模態（如文字、圖片、語音、影片）作為查詢，去搜尋另一種模態中的相關內容；其核心是將不同模態轉換到同一個向量空間（Embedding Space），讓 AI 能理解「同一概念的不同表現形式」，因此成為 Gemini、GPT、CLIP、NotebookLM 等現代多模態 AI 系統的重要基礎技術。
+#### [多模态之跨模态搜索(05:04)](https://www.youtube.com/watch?v=YQtrSmxDIoM)
 > 這段教學內容介紹了跨模態檢索的核心原理，解釋如何讓電腦學會用文字直接搜尋影像內容，而非依賴傳統的文件名對齊。由於文字與圖像的原始數據維度完全不同，技術關鍵在於利用神經網絡編碼器將兩者轉換，並映射至一個共同語義空間。在這個統一的座標系中，語義相似的文字向量與圖像向量會彼此靠近，使系統能透過計算餘弦相似度來衡量關聯性。最終，這種方法打破了媒介形式的限制，實現了根據語義相關性對搜尋結果進行精準排序的目標。
-
+- 多模態之跨模態搜尋（Cross-Modal Search in Multimodal AI）
+  多模態之跨模態搜尋（Cross-Modal Search in Multimodal AI） 是人工智慧中的一項重要技術，指：使用一種資料型態作為查詢（Query），去搜尋另一種資料型態中的相關內容。
+  其中：
+  - 模態（Modality）：資料的表現形式
+    - 文字（Text）
+    - 圖片（Image）
+    - 語音（Audio）
+    - 影片（Video）
+    - 感測器資料（Sensor Data）
+  - 跨模態（Cross-Modal）：
+    - 查詢與搜尋目標屬於不同模態
+- 為什麼能做到？
+  核心技術叫：Shared Embedding Space（共享嵌入空間）。
+  AI 無法直接比較：[ 文字 vs 圖片 ]因為格式不同。而是先轉成向量（Embedding）。於是兩者會出現在向量空間中相近的位置。
+- 著名技術：
+  - CLIP：OpenAI 的 CLIP 是最著名的跨模態模型之一。
+  - Gemini：Google Gemini 屬於原生多模態模型。
+  - GPT-4o / GPT-5 系列
 
 
 # Deep Learning （深度學習領域）
