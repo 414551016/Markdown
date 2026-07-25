@@ -3,7 +3,7 @@ Glossary （術語表，名詞解釋）
 # GPT
 ### Bounded Text Updates（有界文字更新）
 > Bounded Text Updates（有界文字更新） 是近年 Agent 與 Prompt/Skill 優化領域的重要概念，尤其是 Microsoft Research 的 SkillOpt 核心機制之一。簡單來說：限制 AI 每次只能對技能文件（Skill Document）做有限幅度的文字修改，而不能任意大幅重寫整份文件。
-> Bounded Text Updates（有界文字更新）就是限制 AI 每次只能對 Prompt 或 Skill 文件做少量、可控的修改，類似深度學習中的 Learning Rate 控制，藉此避免技能漂移、提升穩定性，並讓 Agent 的技能能夠逐步而可靠地進化。
+> 總結：Bounded Text Updates（有界文字更新）就是限制 AI 每次只能對 Prompt 或 Skill 文件做少量、可控的修改，類似深度學習中的 Learning Rate 控制，藉此避免技能漂移、提升穩定性，並讓 Agent 的技能能夠逐步而可靠地進化。
 - 為什麼需要這個機制？
   ```
   假設你有一份 Agent 技能：
