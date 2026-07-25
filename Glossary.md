@@ -102,5 +102,25 @@ Glossary （術語表，名詞解釋）
 ### Cosine Decay（餘弦衰減）
 > Cosine Decay（餘弦衰減） 是深度學習中常用的一種學習率（Learning Rate）調度策略，用來讓學習率隨著訓練過程平滑下降。簡單來說：一開始用較大的學習率快速學習，後期逐漸降低學習率，讓模型更穩定地收斂。
 
+### 餘弦相似度（Cosine Similarity）
+> 餘弦相似度（Cosine Similarity） 是機器學習、向量搜尋（Vector Search）、RAG、NotebookLM、多模態 AI 中最常用的相似度衡量方法之一。一句話來說：餘弦相似度用來衡量兩個向量之間的方向有多接近，而不太在意它們的長度。
+> 總結：餘弦相似度（Cosine Similarity）是利用兩個向量夾角的餘弦值來衡量相似程度的方法，數值介於 -1 到 1 之間；在現代 AI、RAG、NotebookLM、Gemini、CLIP 與跨模態搜尋中，它是判斷「兩段文字、圖片或其他資料是否語意接近」的核心技術之一。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
