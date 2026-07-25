@@ -56,7 +56,10 @@ Glossary （術語表，名詞解釋）
   梯度 = 報錯
   學習率 = 編輯預算
   ```
-- 
+
+### Held-out Selection Gate（保留驗證選擇閘門）
+> Held-out Selection Gate（保留驗證選擇閘門） 是 SkillOpt 論文中的核心機制之一，用來決定：AI 提出的技能修改（Skill Update）是否真的值得保留。它的概念其實和機器學習中的 Validation Set（驗證集） 非常相似。
+> 總結：Held-out Selection Gate（保留驗證選擇閘門）就是 SkillOpt 用來審核技能更新的品質控制機制：只有當新技能在未參與訓練的 Held-out 驗證任務上表現更好時，修改才會被接受；否則直接捨棄。
 
 
 # 機器學習
