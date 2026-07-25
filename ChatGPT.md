@@ -31,6 +31,8 @@
     > SkillOpt 是微軟研究院（Microsoft Research）於 2026 年開源的一個框架，用來像訓練神經網路一樣訓練 AI Agent 的技能（Skills），但不修改大型語言模型（LLM）的權重。
     > 核心概念：傳統上若想提升 AI Agent 的能力，通常有兩種方式：1.修改 Prompt。2.微調模型（Fine-tuning）。
     > SkillOpt 提出了第三種方法：把 Agent 的「技能文件（Skill Document）」當成可訓練參數來優化。
+  - 原子級編輯（Atomic Editing）
+    > 原子級編輯（Atomic Editing） 是一種文件或程式碼修改方法，指的是：每次只做一個最小、明確、可驗證的修改動作。「原子（Atomic）」借用自物理學與資料庫術語，表示一個不可再分割的最小操作單位。
   - 
 
 
