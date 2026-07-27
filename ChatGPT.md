@@ -214,7 +214,38 @@
     官方特別將桌面應用程式測試、iOS 模擬器操作、GUI 錯誤重現及跨應用程式流程列為 Computer Use 的適用情境。
     ```
   - 製作或檢查 PowerPoint、Excel
+    ```
+    @Computer
+    開啟 PowerPoint 中的博士研究簡報，
+    逐頁檢查：    
+    1. 標題是否超出投影片邊界。
+    2. 圖表文字是否被遮住。
+    3. 字型大小是否低於 20 點。
+    4. 是否有空白投影片。
+    先列出問題，不要直接修改。
+
+    @Computer
+    開啟 Excel 的實驗結果工作簿，
+    確認「Experiment Results」工作表中的圖表
+    是否引用正確的資料範圍。
+    不要修改原始數據。
+    官方目前也列出 Chrome、Microsoft Excel 和 Microsoft PowerPoint 的額外控制整合；是否能看到這些項目，仍取決於平台、版本、帳號及功能開放狀態。
+    ```
   - 修改只能用滑鼠操作的設定
+    ```
+    @Computer
+    開啟 VS Code 設定，
+    找到 Auto Save，
+    將設定值改為 afterDelay。
+    其他設定不要修改。
+
+    或者：
+    @Computer
+    開啟 Zotero，
+    檢查 PDF 附件儲存目錄目前設在哪裡。
+    只告訴我路徑，不要修改設定。
+    這類工作很適合 Computer Use，因為它需要透過選單、設定頁面與視窗操作。
+    ```
 
 
 ### Gmail
