@@ -21,6 +21,7 @@
   - [Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化(13:06)](https://www.youtube.com/watch?v=zMJG9s7T7L8)
 - [李厂长来](https://www.youtube.com/@lichangzhanglaile)
   - [零基礎30分鐘學會Codex 95%功能！【福利贈送】(24:36)](https://www.youtube.com/watch?v=dMiV7Yx9yk4&t=23s)
+    > 功能九：Fork Chat 派生
 - [Ava - 凜](https://www.youtube.com/@AvaLab/playlists)
   - [Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
   - [Codex 零基礎入門 | 不是工程師也能開發！用 AI 做一個可分享的心理測驗網站(26:28)](https://www.youtube.com/watch?v=KoGKJcq9IrI)
