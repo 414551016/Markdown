@@ -10,6 +10,8 @@
 ### YouTub：
 - {New Codex}
   - [Codex 完整教程 2026｜30分鐘從零到會，IG圖文、簡報、動效影片全搞定(27:30)](https://www.youtube.com/watch?v=J3r9tXaCc1E)
+    > 重點教導使用者如何透過 建立專案、利用語音輸入模糊構想，以及連接 Gmail、Notion 與 Canva 等外掛程式來產出簡報與圖文。教學的核心在於展示如何開發專屬 Skill（技能），將複雜的社群媒體經營流製作成可重複執行的自動化工作流。最終，作者強調 AI 不再只是對話框，而是能產出動效影片並協助個人建立一人公司的高效率生產力引擎。
+    
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
 - [wow](https://www.youtube.com/@wow.insight)
   - [解析 UNC/CMU/Stanford 等联合力作：如何打造靠谱的科研 Agent(19:20)](https://www.youtube.com/watch?v=FPe5wRlIdMU)
