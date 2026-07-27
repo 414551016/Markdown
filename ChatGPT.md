@@ -51,6 +51,12 @@
 
 
 ## Codex
+
+### Codex 設置
+- GPT-5.6 模型家族：{ Sol }、{ Terra }、Luna
+- 
+
+
 - [Codex 是什麼？](#Codex-是什麼)
 - [Codex和Claude區別？](#Codex和Claude區別？)
 > Codex 可以：
