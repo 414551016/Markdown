@@ -8,6 +8,8 @@
   - [「普通任務」與「排程任務」也要分清楚](#普通任務與排程任務也要分清楚)
 ## 教學資源：
 ### YouTub：
+- {New Codex}
+  - [Codex 完整教程 2026｜30分鐘從零到會，IG圖文、簡報、動效影片全搞定(27:30)](https://www.youtube.com/watch?v=J3r9tXaCc1E)
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
 - [wow](https://www.youtube.com/@wow.insight)
   - [解析 UNC/CMU/Stanford 等联合力作：如何打造靠谱的科研 Agent(19:20)](https://www.youtube.com/watch?v=FPe5wRlIdMU)
