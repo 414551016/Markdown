@@ -22,6 +22,8 @@
 - [李厂长来](https://www.youtube.com/@lichangzhanglaile)
   - [零基礎30分鐘學會Codex 95%功能！【福利贈送】(24:36)](https://www.youtube.com/watch?v=dMiV7Yx9yk4&t=23s)
     > 功能九：Fork Chat 派生
+- [秋芝2046](https://www.youtube.com/@qiuzhi2046)
+  - [40分钟学会Codex！“零基础”终级教程～【附完整文档】(40:50)](https://www.youtube.com/watch?v=vmjbsobC3NI)
 - [Ava - 凜](https://www.youtube.com/@AvaLab/playlists)
   - [Codex 零基礎入門 | 非工程師也能快速上手，影片有案例(16:53)](https://www.youtube.com/watch?v=n64Y8gr_FDY)
   - [Codex 零基礎入門 | 不是工程師也能開發！用 AI 做一個可分享的心理測驗網站(26:28)](https://www.youtube.com/watch?v=KoGKJcq9IrI)
