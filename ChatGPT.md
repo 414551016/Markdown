@@ -85,14 +85,15 @@
 | `/` | 呼叫 Codex 功能(工作方式)指令    | 命令選單<br>MCP、任務、初始化、回饋、寵物、專案、快速、推理、模型、狀態、目標、規劃模式、記憶<br>技能...<br>/plan<br>/status<br>/init<br>/model<br>/review<br>/compact|
 | `@` | 指定檔案或資料夾作為上下文    | 「請看這個檔案」@ 最常用來把某個檔案或資料夾明確加入目前任務的上下文。<br>檔案和資料夾、目標(設定要持續追求的目標)、規劃模式(開啟規劃模式)<br>外掛程式...、應用程式、ChatGPT對話...、檔案和任務、輸人以搜尋檔案或任務   |
 | `$` | 明確呼叫 Skill 或 App | 「使用這個專業流程」在 Codex CLI 或 IDE 中，$ 通常用來明確選擇一個 Skill。 |
-```
-/plan
-/status
-/init
-/model
-/review
-/compact
-```
+
+- /plan：<br>先規劃，不立即修改 Codex會先提出工作計畫，再進行後續操作。官方也建議多步驟或複雜任務先使用規劃模式。
+  ```
+  /plan
+  請分析這道 CTF 題目的學習步驟。
+  不要直接提供 flag，也不要先修改檔案。
+  ```
+- /init：建立 AGENTS.md
+
 
 ### Codex 是什麼？
 > Codex 是由 OpenAI 推出的一款 AI 助理軟體與通用代理工具（General-purpose Agent）。它與一般 ChatGPT 的最大不同在於，Codex 不僅能回答問題，還能直接動手完成實際工作，例如撰寫文件、製作簡報、生成網站、開發 Apps，甚至直接操作你的電腦。
