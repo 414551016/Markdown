@@ -18,6 +18,7 @@
     > 3.將名片重新命名，格式如下"公司名稱_姓名.jpg"
     > 4.如果有同一家公司的人，請歸類在一起。
     > 5.建立一份聯絡人總表，欄位包含：(姓名、公司、職稱、電話、手機、Email、地址、網站等)
+    > 觀念：| 目標（Goal） | 規劃(Plan) |
     
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
 - [wow](https://www.youtube.com/@wow.insight)
