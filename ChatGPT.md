@@ -1,6 +1,6 @@
 # ChatGPT
 - [ChatGPT Work](#ChatGPT-Work)
-  - [Site（網站）](#Site（網站）)
+  - [Site（網站）](##site網站)
 - [Codex](#Codex)
   - [在 Codex 中，/、@ 和 $ 分別代表三種不同操作](#在-codex-中-和--分別代表三種不同操作)
 - [常用外掛程式（Plugin）](#常用外掛程式Plugin)
