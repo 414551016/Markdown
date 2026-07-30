@@ -15,6 +15,7 @@ Obsidian 是一款強大的本地端筆記與知識管理軟體，筆記以 Mark
     - [第三集｜構建知識網絡：Obsidian 知識點連結的核心理念【AI 工具課】(10:57)](https://www.youtube.com/watch?v=PVqmkDToxHE)
     - [第四集｜高效筆記的起點：Obsidian 模板製作與應用【AI 工具課】(09:51)](https://www.youtube.com/watch?v=aAVitJWUqMg)
     - [第五集｜Obsidian 外掛應用【AI 工具課】(10:26)](https://www.youtube.com/watch?v=WqzHXvEQc5g)
+- [200期视频，如何变成AI 知识系统？Codex + Obsidian 实战 ｜ 内容萃取 ｜ 知识管理 ｜ 知识复利 ｜个人 AI OS(28:22)](https://www.youtube.com/watch?v=_JAiZgIJv5Q)
 - [Obsidian邪修用法，免费云同步，AI，手机端，还有进阶技巧(17:10)](https://www.youtube.com/watch?v=IlNOhNeWGgY)
 - [天哪我給大腦開外掛了！它完全顛覆了大家對筆記軟體的認知 | Obsidian 教學(10:34)](https://www.youtube.com/watch?v=Egj_DdGUIDI)
 
