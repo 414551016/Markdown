@@ -80,7 +80,7 @@
 ### 範例一：
 > 使用 ChatGPT 詢問
 > <br>我想學習利用site完成一個互動式網站，主題是籃球檔柝戰術，畫面要有半場籃球場、進攻球員、防守球員，以及播放、暫停和重新播放的按鈕。我該如何完成？請說明操作及步驟。
-> <br>網路連結位置：https://basketball-pick-roll-tactics.lss-cs14.chatgpt.site/
+> <br>網路連結位置[籃球擋拆戰術互動教學]：https://basketball-pick-roll-tactics.lss-cs14.chatgpt.site/
 
 GPT回答內容：
 <br>你要製作的主題應是 籃球擋拆戰術（Pick-and-Roll）互動式網站。最適合先建立一個簡化版本：半場球場＋5名進攻球員＋5名防守球員＋戰術移動動畫＋播放、暫停、重新播放按鈕。
