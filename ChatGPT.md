@@ -26,6 +26,7 @@
     > 專案[ / ]觀念：| 目標（Goal） | 規劃(Plan) |
     > <br>請綜合三家旅行社報價、問卷CSV與公司福委會規範，分析最符合員工喜好與預算的方案。
     > 需求：1.產生一份能呈報給主管的一頁比價提案草稿；2.找出資料中隱藏的任何加價或條款盲點；3.正式版本前先提供草稿(Draft)給我審閱確認。
+  - [Codex 保姆級完整教學：從 0 到 1 打造 AI 內容創作系統，選題、腳本、貼文一次跑完！(1:00:16)](https://www.youtube.com/watch?v=AZA8OYGlEnE)
     
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
 - [wow](https://www.youtube.com/@wow.insight)
