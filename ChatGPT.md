@@ -64,10 +64,23 @@
   - 
 
 
-## ChatGPT Work
-### Site（網站）
+# ChatGPT Work
+## Site（網站）
+> Codex App 裡的 「網站」，英文名稱是 Sites。
+> <br>讓 Codex 幫你建立、預覽、修改、託管、發布及分享網站或輕量 Web App 的功能。你只要用自然語言描述需求，Codex 就能建立網頁程式、測試功能、提供預覽，最後部署成可透過網址開啟的網站。它也能從相容的本機專案開始，不必另外建立一套獨立部署流程。Sites 目前仍是公開測試版。
 
-## Codex
+
+
+
+
+
+
+
+
+
+
+
+# Codex
 
 ### Codex 設置
 - GPT-5.6 模型家族：{ Sol }、{ Terra }、Luna
