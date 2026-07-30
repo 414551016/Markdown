@@ -13,6 +13,7 @@
 - [Codex 開發者介面中的指令與斜線指令參考](https://learn.chatgpt.com/docs/developer-commands?surface=app)
 ### YouTub：
 - {New Codex}
+  - [Codex 保姆級完整教學：從 0 到 1 打造 AI 內容創作系統，選題、腳本、貼文一次跑完！(1:00:16)](https://www.youtube.com/watch?v=AZA8OYGlEnE)
   - [Codex 完整教程 2026｜30分鐘從零到會，IG圖文、簡報、動效影片全搞定(27:30)](https://www.youtube.com/watch?v=J3r9tXaCc1E)
     > | 下戴安裝界面 | 想法變清清晣 | 交付可視化 | 連接插件 | 自動調研簡報 | 生IG/小紅書圖文 | 安裝Skill | 搭建Skill | 上線GitHub | 動效影片 | 年終大課 |
     > 重點教導使用者如何透過 建立專案、利用語音輸入模糊構想，以及連接 Gmail、Notion 與 Canva 等外掛程式來產出簡報與圖文。教學的核心在於展示如何開發專屬 Skill（技能），將複雜的社群媒體經營流製作成可重複執行的自動化工作流。最終，作者強調 AI 不再只是對話框，而是能產出動效影片並協助個人建立一人公司的高效率生產力引擎。
@@ -26,7 +27,7 @@
     > 專案[ / ]觀念：| 目標（Goal） | 規劃(Plan) |
     > <br>請綜合三家旅行社報價、問卷CSV與公司福委會規範，分析最符合員工喜好與預算的方案。
     > 需求：1.產生一份能呈報給主管的一頁比價提案草稿；2.找出資料中隱藏的任何加價或條款盲點；3.正式版本前先提供草稿(Draft)給我審閱確認。
-  - [Codex 保姆級完整教學：從 0 到 1 打造 AI 內容創作系統，選題、腳本、貼文一次跑完！(1:00:16)](https://www.youtube.com/watch?v=AZA8OYGlEnE)
+  
     
 - [ChatGPT 和 Codex 合体！「Add to Task」才是最大更新 | GPT5.6深度解读(22:56)](https://www.youtube.com/watch?v=mJEIjgiffjc)
 - [wow](https://www.youtube.com/@wow.insight)
