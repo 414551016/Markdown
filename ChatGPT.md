@@ -14,6 +14,7 @@
 ### YouTub：
 - {New Codex}
   - [Codex 保姆級完整教學：從 0 到 1 打造 AI 內容創作系統，選題、腳本、貼文一次跑完！(1:00:16)](https://www.youtube.com/watch?v=AZA8OYGlEnE)
+  - [ChatGPT 進階設定教學：5 個你一定要知道的關鍵功能(08:54)](https://www.youtube.com/watch?v=p6b8cMB-Zag)
   - [Codex 完整教程 2026｜30分鐘從零到會，IG圖文、簡報、動效影片全搞定(27:30)](https://www.youtube.com/watch?v=J3r9tXaCc1E)
     > | 下戴安裝界面 | 想法變清清晣 | 交付可視化 | 連接插件 | 自動調研簡報 | 生IG/小紅書圖文 | 安裝Skill | 搭建Skill | 上線GitHub | 動效影片 | 年終大課 |
     > 重點教導使用者如何透過 建立專案、利用語音輸入模糊構想，以及連接 Gmail、Notion 與 Canva 等外掛程式來產出簡報與圖文。教學的核心在於展示如何開發專屬 Skill（技能），將複雜的社群媒體經營流製作成可重複執行的自動化工作流。最終，作者強調 AI 不再只是對話框，而是能產出動效影片並協助個人建立一人公司的高效率生產力引擎。
