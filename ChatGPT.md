@@ -12,6 +12,20 @@
 ## 教學資源：
 - [Codex 開發者介面中的指令與斜線指令參考](https://learn.chatgpt.com/docs/developer-commands?surface=app)
 ### YouTub：
+- {Temp}
+  - [Codex (APP) 保姆级全攻略，海量实战教程， 一期精通Codex(38:12)](https://www.youtube.com/watch?v=4gciWspBVHw&t=1626s)
+  - [40分钟学会Codex！“零基础”终级教程～【附完整文档】(40:50)](https://www.youtube.com/watch?v=vmjbsobC3NI)
+  - [Skill 實戰教學，從製作到維護的完整指南](https://www.youtube.com/watch?v=PuqX3Kv2ino)
+  - [Codex 零基础终极教程：功能、办公、编程、自动化一次讲透！(22:04)](https://www.youtube.com/watch?v=hGaKA3cfMjk)
+  - [CodeX 10个必装的Skills都有哪些？小白安装后应该如何安装Skill？(08:34)](https://www.youtube.com/watch?v=HFyzG_cpkWI)
+  - [Codex 越用越懂你？OpenAI 团队成员爆火「自我蒸馏」玩法，我实测升级，让它长出 Skill / Agent / 自动化(13:06)](https://www.youtube.com/watch?v=zMJG9s7T7L8)
+  - [Codex保姆级教程！零基础从入门到精通，看这一条视频就够了 |codex |ai |智能体 |ai工具(30:45)](https://www.youtube.com/watch?v=boW53RZdeNg)
+  - [Context-CoT：通过高质量推理合成增强上下文学习(24:47)](https://www.youtube.com/watch?v=XC7ZUmDbh5s)
+  - [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！(23:16)](https://www.youtube.com/watch?v=39_iw_KLEFk)
+  - [Codex 保姆級完整教學：從 0 到 1 打造 AI 內容創作系統，選題、腳本、貼文一次跑完！(1:00:16)](https://www.youtube.com/watch?v=AZA8OYGlEnE)
+  - [ChatGPT 5.6 徹底進化！這 8 個 Work 實戰場景，讓它從助手變成你的「全職員工」(13:10)](https://www.youtube.com/watch?v=IjXoUvFQ15k)
+  - [我开源了一个 Skill，把项目经验沉淀成可复用的知识(12:43)](https://www.youtube.com/watch?v=HcbjFO1mRIw)
+  
 - {New Codex}
   - [Codex 保姆級完整教學：從 0 到 1 打造 AI 內容創作系統，選題、腳本、貼文一次跑完！(1:00:16)](https://www.youtube.com/watch?v=AZA8OYGlEnE)
   - [ChatGPT 進階設定教學：5 個你一定要知道的關鍵功能(08:54)](https://www.youtube.com/watch?v=p6b8cMB-Zag)
