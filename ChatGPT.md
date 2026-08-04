@@ -15,6 +15,7 @@
 - {Temp}
   - [Codex (APP) 保姆级全攻略，海量实战教程， 一期精通Codex(38:12)](https://www.youtube.com/watch?v=4gciWspBVHw&t=1626s)
   - [40分钟学会Codex！“零基础”终级教程～【附完整文档】(40:50)](https://www.youtube.com/watch?v=vmjbsobC3NI)
+  - [ChatGPT 進階設定教學：5 個你一定要知道的關鍵功能(08:54)](https://www.youtube.com/watch?v=p6b8cMB-Zag)
   - [Skill 實戰教學，從製作到維護的完整指南](https://www.youtube.com/watch?v=PuqX3Kv2ino)
   - [Codex 零基础终极教程：功能、办公、编程、自动化一次讲透！(22:04)](https://www.youtube.com/watch?v=hGaKA3cfMjk)
   - [CodeX 10个必装的Skills都有哪些？小白安装后应该如何安装Skill？(08:34)](https://www.youtube.com/watch?v=HFyzG_cpkWI)
